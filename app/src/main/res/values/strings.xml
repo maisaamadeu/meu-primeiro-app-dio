@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name">Meu Primeiro App</string>
+    <string name="counter">Contador</string>
+    <string name="add">Adicionar</string>
+    <string name="remove">Remover</string>
+    <string name="changeLanguage">Mudar Idioma</string>
 </resources>
